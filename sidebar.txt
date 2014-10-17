@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csl:home|Door43 (csl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csl|d43-csl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csl/archive/master.zip|d43-csl.zip]]
+
+**Recent Changes**
+{{changes>ns = csl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csl|Ethnologue data]]
+
